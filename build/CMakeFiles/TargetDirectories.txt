@@ -1,3 +1,0 @@
-/home/zk8888/test/MBS/build/CMakeFiles/edit_cache.dir
-/home/zk8888/test/MBS/build/CMakeFiles/rebuild_cache.dir
-/home/zk8888/test/MBS/build/CMakeFiles/MBS.dir
