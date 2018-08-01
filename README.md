@@ -14,6 +14,7 @@ This is a C++ version transformed from [Matlab implementation](https://github.co
 ## Usage
 
 Just cmake and you will see the demo.
+![Demo](http://
 
 This c++ implementation is for exchanging study purpose only. For further research or reproducing the results in ICCV paper, please use the [Matlab
  version](https://github.com/ermaker/mbs) or [Windows
