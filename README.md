@@ -18,5 +18,5 @@ Just cmake and you will see the demo.
 ![Demo](https://github.com/zk8888/My_MBS/raw/master/sources/demo.gif)
 
 This c++ implementation is for exchanging study purpose only. For further research or reproducing the results in ICCV paper, please use the [Matlab
- version](https://github.com/ermaker/mbs) or [Windows
+ version](https://github.com/jimmie33/MBS) or [Windows
 executable program](https://github.com/ermaker/mbs).
