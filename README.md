@@ -9,7 +9,7 @@ This is a C++ version transformed from [Matlab implementation](https://github.co
 ## Prerequisite
 
 * OpenCV 2.4+
-* intel ipp
+* Intel ipp
 
 ## Usage
 
